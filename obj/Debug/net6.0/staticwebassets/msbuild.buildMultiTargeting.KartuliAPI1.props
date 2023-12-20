@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KartuliAPI1.props" />
+</Project>
